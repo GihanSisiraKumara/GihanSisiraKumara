@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihansisirakumara&label=Profile%20views&color=0e75b6&style=flat" alt="gihansisirakumara" /> </p>
 
-- 🌱 I’m currently learning **Java, C#, React, PHP, Flutter Dart, MySQL query, java script**
+- 🌱 I’m currently learning **Java, C#, React, PHP, Flutter Dart, MySQL query, java script, Tailwind CSS**
 
 - 📫 How to reach me **gihan.sisirakumara2000@gmail.com**
 
